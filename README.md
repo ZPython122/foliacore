@@ -1,5 +1,5 @@
-# 8b8tCore
-### Folia Core Plugin for 8b8t and Anarchy Servers
+# FoliaCore
+### Folia Core Plugin for Anarchy Servers
 ## Features
 * Homes / TPA 
 * Help command
